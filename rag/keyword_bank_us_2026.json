@@ -1,0 +1,68 @@
+{
+  "market": "US",
+  "language": "en-US",
+  "keyword_clusters": [
+    {
+      "cluster": "Shadow and Integration",
+      "intent_type": "problem_aware",
+      "keywords": [
+        "shadow work for beginners",
+        "shadow integration Jungian",
+        "how to heal emotional triggers",
+        "inner child and shadow work",
+        "self sabotage healing book"
+      ]
+    },
+    {
+      "cluster": "Trauma-Informed Manifestation",
+      "intent_type": "solution_seeking",
+      "keywords": [
+        "manifestation and nervous system",
+        "trauma informed manifestation",
+        "why manifestation is not working",
+        "healing before manifestation",
+        "somatic manifestation method"
+      ]
+    },
+    {
+      "cluster": "Somatic Spirituality",
+      "intent_type": "symptom_aware",
+      "keywords": [
+        "somatic healing spiritual practice",
+        "spiritual practices for anxiety",
+        "grounding rituals for stress",
+        "body based trauma healing",
+        "nervous system regulation spirituality"
+      ]
+    },
+    {
+      "cluster": "Ritual and Symbol Practice",
+      "intent_type": "practice_aware",
+      "keywords": [
+        "personal grimoire guide",
+        "sigil magic healing",
+        "cord cutting ritual guide",
+        "beginner witchcraft for healing",
+        "rituals for emotional release"
+      ]
+    },
+    {
+      "cluster": "Nature and Feminine Sovereignty",
+      "intent_type": "identity_aware",
+      "keywords": [
+        "nature spirituality eco mysticism",
+        "spiritual sovereignty women",
+        "feminine spiritual power healing",
+        "seasonal rituals for women",
+        "earth based spiritual practice"
+      ]
+    }
+  ],
+  "metadata_usage_rules": [
+    "Use 1 primary keyword and 2-3 secondary keywords per book listing",
+    "Mirror one real reader question in first 180 characters of description",
+    "Keep keyword placement natural in title, subtitle, and hook paragraph",
+    "Avoid keyword stuffing and repeated stems across backend fields",
+    "Refresh metadata every 90 days using review language and query trends"
+  ]
+}

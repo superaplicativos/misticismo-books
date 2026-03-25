@@ -1,0 +1,67 @@
+{
+  "retrieval_order": [
+    "Load canon chunks where book_scope = all",
+    "Load selected book chunk where book_scope = target book number",
+    "Load previous book closure chunk if target book > 1",
+    "Load metadata template for Amazon and conversational GEO"
+  ],
+  "book_generation_schema": {
+    "required_fields": [
+      "book_number",
+      "working_title",
+      "one_sentence_premise",
+      "continuity_from_previous",
+      "core_internal_wound",
+      "external_plot_pressure",
+      "symbol_set",
+      "ritual_system",
+      "chapter_plan",
+      "ending_transformation",
+      "bridge_to_next_book"
+    ],
+    "chapter_plan_standard": {
+      "target_chapters": 24,
+      "chapter_fields": [
+        "chapter",
+        "plot_turn",
+        "inner_trigger",
+        "symbolic_object",
+        "ritual_reflection_prompt",
+        "keyword_echo"
+      ]
+    }
+  },
+  "continuity_validation_checklist": [
+    "Does the protagonist keep consistent psychological history and voice?",
+    "Does this book resolve one major wound loop introduced or reinforced earlier?",
+    "Does the ritual section avoid medical claims and keep trauma-aware language?",
+    "Are primary and secondary keywords naturally present in title, subtitle, description, and back-cover copy?",
+    "Does the ending open a clean narrative bridge to the next volume?"
+  ],
+  "geo_metadata_template": {
+    "title_formula": "{Main Title}: A Novel of {Inner Conflict} and {Mystic Mechanism}",
+    "subtitle_formula": "A Trauma-Aware Mystical Journey for Readers of {CompSet}",
+    "description_opening": "For readers searching '{primary_keyword}' and asking '{geo_query_intent}'.",
+    "backend_keywords_limit": 7,
+    "backend_keyword_rules": [
+      "Use long-tail phrases (2-5 words)",
+      "Avoid repeated roots",
+      "Mix symptom-led and transformation-led terms",
+      "Include one audience marker (e.g., women, beginners, anxious readers)"
+    ]
+  },
+  "launch_sequence": {
+    "phase_1_validation": [
+      "Launch Book 3 or Book 4 first in Kindle format",
+      "Test CTR and read-through from title/cover/description variants"
+    ],
+    "phase_2_asset_build": [
+      "Build email waitlist with chapter sampler",
+      "Collect reader language for future metadata refinements"
+    ],
+    "phase_3_collector_print": [
+      "Release premium physical editions with ritual-object packaging",
+      "Use playlist QR integration and thematic extras"
+    ]
+  }
+}

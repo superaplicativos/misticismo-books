@@ -1,0 +1,236 @@
+{
+  "series": {
+    "working_title": "The Inward Craft",
+    "market": "US",
+    "language": "en-US",
+    "positioning": "Hybrid mystical fiction + integrated practical rituals",
+    "core_promise": "Each volume delivers a complete emotional arc plus practical integration methods while advancing one macro character journey.",
+    "target_readers": [
+      "Women 20-44 interested in healing spirituality",
+      "Readers from BookTok/Bookstagram who prefer emotional depth and inward transformation",
+      "Readers seeking spiritual tools without rigid institutional religion"
+    ],
+    "format_standard": {
+      "page_range": "280-320",
+      "content_split": {
+        "narrative_percent": 70,
+        "practice_percent": 30
+      },
+      "chapter_count_range": "22-28",
+      "chapter_pattern": [
+        "Narrative conflict",
+        "Inner wound trigger",
+        "Symbolic magical event",
+        "Micro-integration ritual",
+        "Cliff or emotional hook"
+      ]
+    }
+  },
+  "continuity_system": {
+    "canon_entities": {
+      "protagonist": "Mara Voss",
+      "setting_anchor": "The Archive Between Moons",
+      "mentor_line": "The Keepers of the Inner Craft",
+      "magic_law": "Outer magic scales with unresolved inner patterns",
+      "forbidden_shortcut": "Power gains through denial always generate energetic debt"
+    },
+    "non_negotiables": [
+      "Every book must be readable as standalone and as series continuation",
+      "Every climax resolves one internal pattern and opens one deeper layer",
+      "Practical exercises must be trauma-aware and non-clinical",
+      "No definitive medical or psychiatric claims",
+      "Tone remains intimate, mystical, and psychologically grounded"
+    ],
+    "voice_rules": {
+      "narrative_voice": "close-third with lyrical realism",
+      "reader_experience": "safe, reflective, emotionally intense but empowering",
+      "avoid": [
+        "guru certainty",
+        "fear marketing",
+        "shame framing"
+      ]
+    }
+  },
+  "book_blueprint": [
+    {
+      "book": 1,
+      "title": "The Shadow Beneath the Craft",
+      "theme": "Introduction to shadow work through mystical plot",
+      "primary_keyword": "shadow work for beginners",
+      "secondary_keywords": [
+        "shadow self book",
+        "inner child and shadow work",
+        "emotional triggers healing"
+      ],
+      "geo_query_intent": "I want to understand my shadow self without therapy",
+      "amazon_positioning": [
+        "Occult Fiction",
+        "Psychological Fiction",
+        "Spiritual Self-Help"
+      ],
+      "visual_direction": "Dark violet, moon symbols, vamp romantic mood"
+    },
+    {
+      "book": 2,
+      "title": "Cord Cutting",
+      "theme": "Breaking inherited emotional patterns and ancestral burdens",
+      "primary_keyword": "ancestral healing rituals",
+      "secondary_keywords": [
+        "generational trauma healing book",
+        "cord cutting ritual guide",
+        "family pattern healing"
+      ],
+      "geo_query_intent": "How do I stop repeating family emotional cycles?",
+      "amazon_positioning": [
+        "Metaphysical Fiction",
+        "Women's Spirituality",
+        "Personal Transformation"
+      ],
+      "visual_direction": "Dark academia sepia, letters, archives"
+    },
+    {
+      "book": 3,
+      "title": "The Grimoire of Broken Things",
+      "theme": "Building a personal spiritual practice after emotional collapse",
+      "primary_keyword": "personal grimoire guide",
+      "secondary_keywords": [
+        "create your own spiritual practice",
+        "beginner witchcraft journal method",
+        "healing rituals for grief"
+      ],
+      "geo_query_intent": "I need a spiritual practice that actually fits my life",
+      "amazon_positioning": [
+        "Witchcraft",
+        "Self-Help Journal Writing",
+        "New Age Mysticism"
+      ],
+      "visual_direction": "Cottagecore with herbs, handmade paper, intimate craft"
+    },
+    {
+      "book": 4,
+      "title": "Quantum Wounds",
+      "theme": "Manifestation blocked by nervous-system dysregulation and trauma loops",
+      "primary_keyword": "manifestation and nervous system",
+      "secondary_keywords": [
+        "trauma informed manifestation",
+        "why manifestation is not working",
+        "nervous system healing spirituality"
+      ],
+      "geo_query_intent": "Manifestation is not working and I think trauma is the block",
+      "amazon_positioning": [
+        "Mind-Body Healing",
+        "Metaphysical Fiction",
+        "Self-Help Spiritual"
+      ],
+      "visual_direction": "Sacred geometry, opal gradients, scientific mysticism"
+    },
+    {
+      "book": 5,
+      "title": "The Midnight Alchemist",
+      "theme": "Dark night of the soul and identity transmutation",
+      "primary_keyword": "dark night of the soul spiritual",
+      "secondary_keywords": [
+        "spiritual awakening crisis",
+        "ego death healing",
+        "rebuild after breakdown"
+      ],
+      "geo_query_intent": "I am losing myself during awakening and need a map",
+      "amazon_positioning": [
+        "Spiritual Growth",
+        "Dark Fantasy",
+        "Personal Recovery"
+      ],
+      "visual_direction": "Celestial noir, violet metals, ritual nightscape"
+    },
+    {
+      "book": 6,
+      "title": "Sigils and Scars",
+      "theme": "Symbol language and body memory as healing channels",
+      "primary_keyword": "sigil magic healing",
+      "secondary_keywords": [
+        "symbol healing practices",
+        "creative ritual for trauma release",
+        "witch symbols meaning and use"
+      ],
+      "geo_query_intent": "I need practical symbolic rituals that feel emotionally real",
+      "amazon_positioning": [
+        "Symbolism",
+        "Occult Practices",
+        "Transformational Fiction"
+      ],
+      "visual_direction": "Ink maps, weathered textures, rebel mystic aesthetic"
+    },
+    {
+      "book": 7,
+      "title": "The Body Knows",
+      "theme": "Somatic spirituality and embodied safety",
+      "primary_keyword": "somatic healing spiritual practice",
+      "secondary_keywords": [
+        "spiritual practices for anxiety",
+        "body based trauma healing",
+        "grounding rituals for stress"
+      ],
+      "geo_query_intent": "What spiritual practices help anxiety and body tension?",
+      "amazon_positioning": [
+        "Somatic Psychology",
+        "Mindfulness",
+        "Women's Health Spirituality"
+      ],
+      "visual_direction": "Poetcore minimalism, breath motifs, muted blues"
+    },
+    {
+      "book": 8,
+      "title": "Wild Devotion",
+      "theme": "Nature-based spirituality and inner deity archetypes",
+      "primary_keyword": "nature spirituality eco mysticism",
+      "secondary_keywords": [
+        "earth based spiritual practice",
+        "eco spiritual healing",
+        "seasonal rituals for women"
+      ],
+      "geo_query_intent": "I want a spiritual path connected to nature and cycles",
+      "amazon_positioning": [
+        "Nature Spirituality",
+        "Ecofeminism",
+        "Earth Religions"
+      ],
+      "visual_direction": "Moss green, forest altars, organic textures"
+    },
+    {
+      "book": 9,
+      "title": "The Fracture and the Light",
+      "theme": "Shadow integration into purpose and gifts",
+      "primary_keyword": "shadow integration Jungian",
+      "secondary_keywords": [
+        "Jungian healing journey",
+        "integrating the shadow self",
+        "turn pain into purpose"
+      ],
+      "geo_query_intent": "How do I integrate my shadow without losing myself?",
+      "amazon_positioning": [
+        "Jungian Psychology",
+        "Spiritual Transformation",
+        "Women's Fiction"
+      ],
+      "visual_direction": "Gold-violet transition, fractured light, restoration theme"
+    },
+    {
+      "book": 10,
+      "title": "Sovereign",
+      "theme": "Spiritual sovereignty, identity ownership and mature leadership",
+      "primary_keyword": "spiritual sovereignty women",
+      "secondary_keywords": [
+        "feminine power healing",
+        "self trust spiritual path",
+        "embodied spiritual leadership"
+      ],
+      "geo_query_intent": "I want to trust my own spiritual authority",
+      "amazon_positioning": [
+        "Women's Personal Growth",
+        "Spiritual Leadership",
+        "Transformational Fiction"
+      ],
+      "visual_direction": "Collectible celestial-poetcore blend"
+    }
+  ]
+}
